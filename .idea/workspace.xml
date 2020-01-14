@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c34845f-f963-4885-a9f3-7d27d959454c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mock" beforeDir="false" afterPath="$PROJECT_DIR$/mock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mock/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/mock/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mock/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mock/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mock/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mock/package.json" afterDir="false" />
@@ -24,7 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mock" />
   </component>
   <component name="ProjectId" id="1W9NQM9KP5Np8FO8pVoUMbNGqUK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,6 +43,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Test" />
+      <recent name="D:\Test\node" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -62,7 +76,7 @@
       <workItem from="1578557889002" duration="634000" />
       <workItem from="1578558816377" duration="64000" />
       <workItem from="1578986474189" duration="292000" />
-      <workItem from="1578986854686" duration="906000" />
+      <workItem from="1578986854686" duration="2789000" />
     </task>
     <servers />
   </component>
@@ -70,6 +84,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="720" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578990649718">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="720" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1578990649718" />
+    <state x="560" y="117" key="CommitChangelistDialog2" timestamp="1578990876801">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="560" y="117" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1578990876801" />
     <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1578557921525">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
